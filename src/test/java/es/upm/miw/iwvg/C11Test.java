@@ -9,7 +9,7 @@ public class C11Test {
 
     @Test
     public void testM1() {
-        assertEquals("m1", new C11().m1());
+        assertEquals("m1()", new C11().m1());
     }
 
     @Test
