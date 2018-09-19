@@ -10,5 +10,4 @@ notifications:
     recipients:
     - roberto.martin.escribano@alumnos.upm.es
 script:
-#Test unitario y de integracion en develop
 - mvn verify
